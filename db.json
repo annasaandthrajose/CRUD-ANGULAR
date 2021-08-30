@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "name": "hgj",
+      "mobile": "8129632035",
+      "email": "annasaandthrajose@gmail.com",
+      "password": "kujghfd",
+      "id": "85"
+    },
+    {
+      "name": "anna",
+      "mobile": "9747311723",
+      "email": "joansanlin@gmail.com",
+      "password": "appu",
+      "id": "32"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
